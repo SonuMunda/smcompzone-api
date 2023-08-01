@@ -392,7 +392,6 @@
         "price": 2655,
         "description": "Ant Esports ICE-120AG Mid Tower Computer Case I Gaming Cabinet Supports ATX, Micro-ATX, Mini-ITX Motherboard with 1 x 120 mm Rear Fan Preinstalled - Black Mid Tower Cabinet  (Black)",
         "image": "https://rukminim2.flixcart.com/image/416/416/kwxv98w0/cabinet/5/h/t/ice-120ag-mid-tower-computer-case-i-gaming-cabinet-supports-atx-original-imag9gbsq6gayzxg.jpeg?q=70",
-        "featured": true
       },
       {
         "id": "psno41",
@@ -424,7 +423,7 @@
       {
         "id": "psno44",
         "name": "ZOTAC NVIDIA RTX 3060",
-        "category": "graphics",
+        "category": "graphicscard",
         "brand": "zotac",
         "price": 30979,
         "description": "ZOTAC NVIDIA RTX 3060 Twin Edge OC 12 GB GDDR6 Graphics Card",
@@ -433,7 +432,7 @@
       {
         "id": "psno45",
         "name": "ASUS NVIDIA GeForce GT 730",
-        "category": "graphics",
+        "category": "graphicard",
         "brand": "asus",
         "price": 4499,
         "description": "ASUS NVIDIA GeForce GT 730 2 GB GDDR5 Graphics Card",
@@ -442,16 +441,17 @@
       {
         "id": "psno46",
         "name": "Acer Intel ARC A380",
-        "category": "graphics",
+        "category": "graphicscard",
         "brand": "Acer",
         "price": 11694,
         "description": "Acer Intel ARC A380 6 GB GDDR6 Graphics Card  (Black)",
-        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/graphics-card/e/i/3/arc-a380-acer-predator-original-imagqdxeckgzmmjd.jpeg?q=70"
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/graphics-card/e/i/3/arc-a380-acer-predator-original-imagqdxeckgzmmjd.jpeg?q=70",
+        "featured": true
       },
       {
         "id": "psno47",
         "name": "GIGABYTE NVIDIA GV-N1656WF2OC-4GD",
-        "category": "graphics",
+        "category": "graphicscard",
         "brand": "GIGABYTE",
         "price": 14999,
         "description": "GIGABYTE NVIDIA GV-N1656WF2OC-4GD 4 GB GDDR6 Graphics Card  (Black)",
