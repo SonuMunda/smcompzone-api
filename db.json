@@ -184,250 +184,234 @@
       "stock": false
     },
     {
-      "peripherals": {
-        "keyboard": [
-          {
-            "id": "psno16",
-            "name": "ZEBRONICS Zeb-K20",
-            "category": "keyboard",
-            "brand": "ZEBRONICS",
-            "price": 299,
-            "description": "ZEBRONICS Zeb-K20 Wired USB Desktop Keyboard  (Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/ksxjs7k0/keyboard/desktop-keyboard/b/q/a/zeb-k20-zebronics-original-imag6dugjj5gzr3y.jpeg?q=70",
-            "ratings": 4.1,
-            "reviews": 1053,
-            "stock": true
-          },
-          {
-            "id": "psno17",
-            "name": "DELL KB 216",
-            "category": "keyboard",
-            "brand": "DELL",
-            "price": 569,
-            "description": "DELL KB 216 Wired USB Desktop Keyboard  (Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/k3g73bk0/keyboard/desktop-keyboard/e/y/q/dell-kb-216-original-imaf8qpmu8zmqm9f.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 859,
-            "stock": false
-          },
-          {
-            "id": "psno18",
-            "name": "ZEBRONICS ZEB-K24",
-            "category": "keyboard",
-            "brand": "ZEBRONICS",
-            "price": 348,
-            "description": "ZEBRONICS ZEB-K24 slim design, retractable stand, 1.5 meter textured cable, Chiclet keys Wired USB Desktop Keyboard  (Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/o/b/7/-original-imaggd53anpanb6g.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 764,
-            "stock": true
-          },
-          {
-            "id": "psno19",
-            "name": "Intex IT-KB331",
-            "category": "keyboard",
-            "brand": "Intex",
-            "price": 449,
-            "description": "Intex IT-KB331 / Full-Size, RGB Lighting, Membrane Wired USB Gaming Keyboard  (Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/gaming-keyboard/m/5/m/it-kb331-intex-original-imagmgwzqaygcdud.jpeg?q=70",
-            "featured": true,
-            "ratings": 3.7,
-            "reviews": 1094,
-            "stock": true
-          }
-        ],
-        "mouse": [
-          {
-            "id": "psno20",
-            "name": "ZEBRONICS ZEB-TRANSFORMER-M",
-            "category": "mouse",
-            "brand": "ZEBRONICS",
-            "price": 399,
-            "description": "ZEBRONICS ZEB-TRANSFORMER-M Wired Optical Gaming Mouse  (USB 3.0, Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/khuvxjk0-0/mouse/p/p/5/zeb-transformer-m-zebronics-original-imafxrugh8yqdryh.jpeg?q=70",
-            "ratings": 4.5,
-            "reviews": 1873,
-            "stock": true,
-            "colors": [
-              {
-                "red": "#FF0000",
-                "cyan": "#00FFFF",
-                "purple": "#800080"
-              }
-            ]
-          },
-          {
-            "id": "psno21",
-            "name": "DELL MS 116-BK",
-            "category": "mouse",
-            "brand": "DELL",
-            "price": 309,
-            "description": "DELL MS 116-BK Wired Optical Mouse  (USB, Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/k4a7c7k0/mouse/m/h/t/dell-ms116-wired-optical-mouse-3yrs-warranty-original-imafmktgxyt5ge9k.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 1845,
-            "stock": false
-          },
-          {
-            "id": "psno22",
-            "name": "HP 1000",
-            "category": "mouse",
-            "brand": "HP",
-            "price": 329,
-            "description": "HP 1000 Wired Optical Mouse  (USB 3.0, USB 2.0, Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/jrkyfm80/mouse/h/u/f/hp-1000-original-imafd3jqy5sygn2s.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 964,
-            "stock": true
-          },
-          {
-            "id": "psno23",
-            "name": "ZEBRONICS ZEB-POP",
-            "category": "mouse",
-            "brand": "ZEBRONICS",
-            "price": 349,
-            "description": "ZEBRONICS ZEB-POP 2.4GHz Wireless Mouse max1600 DPI, USB Nano Receiver, 4 Buttons(BLACK) Wireless Optical Mouse  (2.4GHz Wireless, Black)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mouse/8/2/d/zeb-pop-2-4ghz-wireless-mouse-max1600-dpi-usb-nano-receiver-4-original-imagpgpqfh82cpqb.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 664,
-            "stock": false
-          }
-        ],
-        "combo": [
-          {
-            "id": "psno24",
-            "name": "ZEBRONICS Zeb-Transformer",
-            "category": "combo",
-            "brand": "ZEBRONICS",
-            "price": 1999,
-            "description": "ZEBRONICS Zeb-Transformer Premium Gaming Keyboard and Mouse Combo Set",
-            "image": "https://rukminim2.flixcart.com/image/416/416/khuvxjk0/computer-acc-combo/b/h/x/premium-gaming-transformer-keyboard-mouse-2-zebronics-original-imafxs3cst38zkvk.jpeg?q=70",
-            "featured": true,
-            "ratings": 4.1,
-            "reviews": 949,
-            "stock": false
-          },
-          {
-            "id": "psno25",
-            "name": "ZEBRONICS Zeb-K35 Combo",
-            "category": "combo",
-            "brand": "ZEBRONICS",
-            "price": 568,
-            "description": "ZEBRONICS Zeb-K35 Keyboard and ZEB-WING Wired Optical Mouse Combo Set",
-            "image": "https://rukminim2.flixcart.com/image/416/416/ku2zjww0/computer-acc-combo/f/t/y/zeb-k35-keyboard-and-zeb-wing-wired-optical-mouse-2-zebronics-original-imag79p8k43hy3ph.jpeg?q=70",
-            "ratings": 4,
-            "reviews": 464,
-            "stock": true
-          },
-          {
-            "id": "psno26",
-            "name": "QUANTUM QHM 7406",
-            "category": "combo",
-            "brand": "QUANTUM",
-            "price": 775,
-            "description": "QUANTUM QHM 7406 WIRED KEYBOARD WITH QHM 222 WIRED MOUSE AND QHM 6633 WHITE 4 PORT USB HUB Combo Set",
-            "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/computer-acc-combo/p/z/t/qhm-7406-wired-keyboard-with-qhm-222-wired-mouse-and-qhm-6633-original-imafuxyvbgb3w9z5.jpeg?q=70",
-            "ratings": 3.9,
-            "reviews": 1047,
-            "stock": false
-          }
-        ]
-      }
+      "id": "psno16",
+      "name": "ZEBRONICS Zeb-K20",
+      "category": "keyboard",
+      "brand": "ZEBRONICS",
+      "price": 299,
+      "description": "ZEBRONICS Zeb-K20 Wired USB Desktop Keyboard  (Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ksxjs7k0/keyboard/desktop-keyboard/b/q/a/zeb-k20-zebronics-original-imag6dugjj5gzr3y.jpeg?q=70",
+      "ratings": 4.1,
+      "reviews": 1053,
+      "stock": true
     },
     {
-      "storage": {
-        "hdd": [
-          {
-            "id": "psno27",
-            "name": "WD WD BLUE 1TB",
-            "category": "hdd",
-            "brand": "WD",
-            "price": 2849,
-            "description": "WD WD BLUE 1 TB Desktop, Servers, All in One PC's, Network Attached Storage Internal Hard Disk Drive (HDD) (1 TB DESKTOP BLUE HARD DISK)  (Interface: SATA, Form Factor: 3.5 inch)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/q/s/o/wd-1-tb-1-tb-desktop-blue-hard-disk-wd-original-imagkgzthydh2wg3.jpeg?q=70",
-            "featured": true,
-            "ratings": 4.5,
-            "reviews": 1200,
-            "stock": true
-          },
-          {
-            "id": "psno28",
-            "name": "WD Blue hdp 500 GB",
-            "category": "hdd",
-            "brand": "WD",
-            "price": 1075,
-            "description": "WD Blue hdp 500 GB Desktop Internal Hard Disk Drive (HDD) (Wd500azlp)  (Interface: SATA, Form Factor: 3.5 inch)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/v/p/s/wd500azlp-wd-original-imagpaueqaxxaqyf.jpeg?q=70",
-            "ratings": 4.2,
-            "reviews": 800,
-            "stock": true
-          },
-          {
-            "id": "psno29",
-            "name": "Seagate ZN1BG90N 1 TB",
-            "category": "hdd",
-            "brand": "Seagate",
-            "price": 3730,
-            "description": "Seagate ZN1BG90N 1 TB Desktop Internal Hard Disk Drive (HDD) (BARRACUDA)  (Interface: SATA, Form Factor: 3.5 inch)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/k59xci80/internal-hard-drive/9/h/h/seagate-barracuda-original-imafnz8hrvct3vdx.jpeg?q=70",
-            "ratings": 4.7,
-            "reviews": 1500,
-            "stock": false
-          }
-        ],
-        "ssd": [
-          {
-            "id": "psno30",
-            "name": "Crucial BX500 1 TB ",
-            "category": "ssd",
-            "brand": "Crucial",
-            "price": 4163,
-            "description": "Crucial BX500 1 TB Desktop, Laptop Internal Solid State Drive (SSD) (CT1000BX500SSD1)  (Interface: SATA, Form Factor: 2.5 Inch)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/internal-hard-drive/g/z/9/crucial-ct1000bx500ssd1-01-original-imafuw9zczznyenu.jpeg?q=70",
-            "featured": true,
-            "ratings": 4.4,
-            "reviews": 1000,
-            "stock": true
-          },
-          {
-            "id": "psno31",
-            "name": "WESTERN DIGITAL WD Blue NVMe SN570",
-            "category": "ssd",
-            "brand": "WD",
-            "price": 4299,
-            "description": "WESTERN DIGITAL WD Blue NVMe SN570 1 TB Laptop, Desktop Internal Solid State Drive (SSD) (WDS100T3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/s/w/u/wd-sn570-wds100t3b0c-western-digital-original-imageanabmz67bh5.jpeg?q=70",
-            "ratings": 4.6,
-            "reviews": 1300,
-            "stock": true
-          },
-          {
-            "id": "psno32",
-            "name": "WESTERN DIGITAL WD Blue NVMe SN570",
-            "category": "ssd",
-            "brand": "WD",
-            "price": 2579,
-            "description": "WESTERN DIGITAL WD Blue NVMe SN570 500 GB Laptop, Desktop Internal Solid State Drive (SSD) (WDS500G3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/y/d/t/wd-sn570-wds500g3b0c-western-digital-original-imagean9xjfdrgqf.jpeg?q=70",
-            "featured": true,
-            "ratings": 4.3,
-            "reviews": 700,
-            "stock": false
-          },
-          {
-            "id": "psno33",
-            "name": "WESTERN DIGITAL WD Green",
-            "category": "ssd",
-            "brand": "WD",
-            "price": 1279,
-            "description": "WESTERN DIGITAL WD Green SATA 240 GB Desktop, Laptop Internal Solid State Drive (SSD) (WDS240G3G0A)  (Interface: SATA, Form Factor: 2.5 Inch)",
-            "image": "https://rukminim2.flixcart.com/image/416/416/l3khsi80/internal-hard-drive/l/z/0/wds240g3g0a-western-digital-original-imagenr6wxvdnqq8.jpeg?q=70",
-            "ratings": 3.9,
-            "reviews": 1600,
-            "stock": true
-          }
-        ]
-      }
+      "id": "psno17",
+      "name": "DELL KB 216",
+      "category": "keyboard",
+      "brand": "DELL",
+      "price": 569,
+      "description": "DELL KB 216 Wired USB Desktop Keyboard  (Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/k3g73bk0/keyboard/desktop-keyboard/e/y/q/dell-kb-216-original-imaf8qpmu8zmqm9f.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 859,
+      "stock": false
+    },
+    {
+      "id": "psno18",
+      "name": "ZEBRONICS ZEB-K24",
+      "category": "keyboard",
+      "brand": "ZEBRONICS",
+      "price": 348,
+      "description": "ZEBRONICS ZEB-K24 slim design, retractable stand, 1.5 meter textured cable, Chiclet keys Wired USB Desktop Keyboard  (Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/o/b/7/-original-imaggd53anpanb6g.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 764,
+      "stock": true
+    },
+    {
+      "id": "psno19",
+      "name": "Intex IT-KB331",
+      "category": "keyboard",
+      "brand": "Intex",
+      "price": 449,
+      "description": "Intex IT-KB331 / Full-Size, RGB Lighting, Membrane Wired USB Gaming Keyboard  (Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/gaming-keyboard/m/5/m/it-kb331-intex-original-imagmgwzqaygcdud.jpeg?q=70",
+      "featured": true,
+      "ratings": 3.7,
+      "reviews": 1094,
+      "stock": true
+    },
+    {
+      "id": "psno20",
+      "name": "ZEBRONICS ZEB-TRANSFORMER-M",
+      "category": "mouse",
+      "brand": "ZEBRONICS",
+      "price": 399,
+      "description": "ZEBRONICS ZEB-TRANSFORMER-M Wired Optical Gaming Mouse  (USB 3.0, Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/khuvxjk0-0/mouse/p/p/5/zeb-transformer-m-zebronics-original-imafxrugh8yqdryh.jpeg?q=70",
+      "ratings": 4.5,
+      "reviews": 1873,
+      "stock": true,
+      "colors": [
+        {
+          "red": "#FF0000",
+          "cyan": "#00FFFF",
+          "purple": "#800080"
+        }
+      ]
+    },
+    {
+      "id": "psno21",
+      "name": "DELL MS 116-BK",
+      "category": "mouse",
+      "brand": "DELL",
+      "price": 309,
+      "description": "DELL MS 116-BK Wired Optical Mouse  (USB, Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/k4a7c7k0/mouse/m/h/t/dell-ms116-wired-optical-mouse-3yrs-warranty-original-imafmktgxyt5ge9k.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 1845,
+      "stock": false
+    },
+    {
+      "id": "psno22",
+      "name": "HP 1000",
+      "category": "mouse",
+      "brand": "HP",
+      "price": 329,
+      "description": "HP 1000 Wired Optical Mouse  (USB 3.0, USB 2.0, Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/jrkyfm80/mouse/h/u/f/hp-1000-original-imafd3jqy5sygn2s.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 964,
+      "stock": true
+    },
+    {
+      "id": "psno23",
+      "name": "ZEBRONICS ZEB-POP",
+      "category": "mouse",
+      "brand": "ZEBRONICS",
+      "price": 349,
+      "description": "ZEBRONICS ZEB-POP 2.4GHz Wireless Mouse max1600 DPI, USB Nano Receiver, 4 Buttons(BLACK) Wireless Optical Mouse  (2.4GHz Wireless, Black)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mouse/8/2/d/zeb-pop-2-4ghz-wireless-mouse-max1600-dpi-usb-nano-receiver-4-original-imagpgpqfh82cpqb.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 664,
+      "stock": false
+    },
+    {
+      "id": "psno24",
+      "name": "ZEBRONICS Zeb-Transformer",
+      "category": "combo",
+      "brand": "ZEBRONICS",
+      "price": 1999,
+      "description": "ZEBRONICS Zeb-Transformer Premium Gaming Keyboard and Mouse Combo Set",
+      "image": "https://rukminim2.flixcart.com/image/416/416/khuvxjk0/computer-acc-combo/b/h/x/premium-gaming-transformer-keyboard-mouse-2-zebronics-original-imafxs3cst38zkvk.jpeg?q=70",
+      "featured": true,
+      "ratings": 4.1,
+      "reviews": 949,
+      "stock": false
+    },
+    {
+      "id": "psno25",
+      "name": "ZEBRONICS Zeb-K35 Combo",
+      "category": "combo",
+      "brand": "ZEBRONICS",
+      "price": 568,
+      "description": "ZEBRONICS Zeb-K35 Keyboard and ZEB-WING Wired Optical Mouse Combo Set",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ku2zjww0/computer-acc-combo/f/t/y/zeb-k35-keyboard-and-zeb-wing-wired-optical-mouse-2-zebronics-original-imag79p8k43hy3ph.jpeg?q=70",
+      "ratings": 4,
+      "reviews": 464,
+      "stock": true
+    },
+    {
+      "id": "psno26",
+      "name": "QUANTUM QHM 7406",
+      "category": "combo",
+      "brand": "QUANTUM",
+      "price": 775,
+      "description": "QUANTUM QHM 7406 WIRED KEYBOARD WITH QHM 222 WIRED MOUSE AND QHM 6633 WHITE 4 PORT USB HUB Combo Set",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/computer-acc-combo/p/z/t/qhm-7406-wired-keyboard-with-qhm-222-wired-mouse-and-qhm-6633-original-imafuxyvbgb3w9z5.jpeg?q=70",
+      "ratings": 3.9,
+      "reviews": 1047,
+      "stock": false
+    },
+    {
+      "id": "psno27",
+      "name": "WD WD BLUE 1TB",
+      "category": "hdd",
+      "brand": "WD",
+      "price": 2849,
+      "description": "WD WD BLUE 1 TB Desktop, Servers, All in One PC's, Network Attached Storage Internal Hard Disk Drive (HDD) (1 TB DESKTOP BLUE HARD DISK)  (Interface: SATA, Form Factor: 3.5 inch)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/q/s/o/wd-1-tb-1-tb-desktop-blue-hard-disk-wd-original-imagkgzthydh2wg3.jpeg?q=70",
+      "featured": true,
+      "ratings": 4.5,
+      "reviews": 1200,
+      "stock": true
+    },
+    {
+      "id": "psno28",
+      "name": "WD Blue hdp 500 GB",
+      "category": "hdd",
+      "brand": "WD",
+      "price": 1075,
+      "description": "WD Blue hdp 500 GB Desktop Internal Hard Disk Drive (HDD) (Wd500azlp)  (Interface: SATA, Form Factor: 3.5 inch)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/v/p/s/wd500azlp-wd-original-imagpaueqaxxaqyf.jpeg?q=70",
+      "ratings": 4.2,
+      "reviews": 800,
+      "stock": true
+    },
+    {
+      "id": "psno29",
+      "name": "Seagate ZN1BG90N 1 TB",
+      "category": "hdd",
+      "brand": "Seagate",
+      "price": 3730,
+      "description": "Seagate ZN1BG90N 1 TB Desktop Internal Hard Disk Drive (HDD) (BARRACUDA)  (Interface: SATA, Form Factor: 3.5 inch)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/k59xci80/internal-hard-drive/9/h/h/seagate-barracuda-original-imafnz8hrvct3vdx.jpeg?q=70",
+      "ratings": 4.7,
+      "reviews": 1500,
+      "stock": false
+    }
+  ],
+  "ssd": [
+    {
+      "id": "psno30",
+      "name": "Crucial BX500 1 TB ",
+      "category": "ssd",
+      "brand": "Crucial",
+      "price": 4163,
+      "description": "Crucial BX500 1 TB Desktop, Laptop Internal Solid State Drive (SSD) (CT1000BX500SSD1)  (Interface: SATA, Form Factor: 2.5 Inch)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/internal-hard-drive/g/z/9/crucial-ct1000bx500ssd1-01-original-imafuw9zczznyenu.jpeg?q=70",
+      "featured": true,
+      "ratings": 4.4,
+      "reviews": 1000,
+      "stock": true
+    },
+    {
+      "id": "psno31",
+      "name": "WESTERN DIGITAL WD Blue NVMe SN570",
+      "category": "ssd",
+      "brand": "WD",
+      "price": 4299,
+      "description": "WESTERN DIGITAL WD Blue NVMe SN570 1 TB Laptop, Desktop Internal Solid State Drive (SSD) (WDS100T3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/s/w/u/wd-sn570-wds100t3b0c-western-digital-original-imageanabmz67bh5.jpeg?q=70",
+      "ratings": 4.6,
+      "reviews": 1300,
+      "stock": true
+    },
+    {
+      "id": "psno32",
+      "name": "WESTERN DIGITAL WD Blue NVMe SN570",
+      "category": "ssd",
+      "brand": "WD",
+      "price": 2579,
+      "description": "WESTERN DIGITAL WD Blue NVMe SN570 500 GB Laptop, Desktop Internal Solid State Drive (SSD) (WDS500G3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/y/d/t/wd-sn570-wds500g3b0c-western-digital-original-imagean9xjfdrgqf.jpeg?q=70",
+      "featured": true,
+      "ratings": 4.3,
+      "reviews": 700,
+      "stock": false
+    },
+    {
+      "id": "psno33",
+      "name": "WESTERN DIGITAL WD Green",
+      "category": "ssd",
+      "brand": "WD",
+      "price": 1279,
+      "description": "WESTERN DIGITAL WD Green SATA 240 GB Desktop, Laptop Internal Solid State Drive (SSD) (WDS240G3G0A)  (Interface: SATA, Form Factor: 2.5 Inch)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l3khsi80/internal-hard-drive/l/z/0/wds240g3g0a-western-digital-original-imagenr6wxvdnqq8.jpeg?q=70",
+      "ratings": 3.9,
+      "reviews": 1600,
+      "stock": true
     },
     {
       "id": "psno34",
