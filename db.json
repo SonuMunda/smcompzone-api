@@ -255,11 +255,7 @@
       "ratings": 4.5,
       "reviews": 1873,
       "stock": true,
-      "colors": {
-          "#FF0000",
-          "#00FFFF",
-          "#800080"
-    }
+      "colors": ["#FF0000", "#00FFFF", "#800080"]
     },
     {
       "id": "psno21",
