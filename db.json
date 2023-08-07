@@ -8,7 +8,7 @@
       "price": 7999,
       "description": "amd Ryzen 3 3200G with Radeon Vega 8 Graphics (YD3200C5FHBOX) 3.6 Ghz Upto 4 GHz AM4 Socket 4 Cores 4 Threads 2 MB L2 4 MB L3 Desktop Processor  (Silver).",
       "image": "https://rukminim2.flixcart.com/image/416/416/k45x0nk0/processor/f/w/s/amd-3-3200g-original-imafn3zzu4fdnhm4.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.2,
       "reviews": 1093,
       "stock": false
@@ -21,7 +21,7 @@
       "price": 10399,
       "description": "amd Ryzen 5 3600 with Wraith Stealth Cooler (100-000000031) 3.6 Ghz Upto 4.2 GHz AM4 Socket 6 Cores 12 Threads 3 MB L2 32 MB L3 Desktop Processor  (Silver)",
       "image": "https://rukminim2.flixcart.com/image/416/416/k44hksw0/processor/h/6/q/amd-ryzen-5-3600-original-imafn2vh4m6anqjr.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "featured": true,
       "ratings": 4.4,
       "reviews": 1994,
@@ -35,7 +35,7 @@
       "price": 10399,
       "description": "amd Ryzen 5 4600G 3.7 GHz Upto 4.2 GHz AM4 Socket 6 Cores 12 Threads Desktop Processor  (Silver)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/processor/y/x/g/ryzen-5-4600g-amd-original-imagha2tfhpgcc6y.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.5,
       "reviews": 1434,
       "stock": true
@@ -48,7 +48,7 @@
       "price": 27999,
       "description": "amd Ryzen Processor 7 series 3.7 GHz AM4 Socket 8 Cores Server, Desktop Processor  (White)",
       "image": "https://rukminim2.flixcart.com/image/416/416/js7th8w0/processor/m/g/t/amd-ryzen-processor-7-series-original-imafdsdgcrsksesz.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.5,
       "reviews": 1034,
       "stock": false
@@ -61,7 +61,7 @@
       "price": 8584,
       "description": "Intel i3-12100F 4.3 GHz Upto 4.3 GHz LGA1700 Socket 4 Cores 8 Threads Desktop Processor  (Blue)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/processor/v/q/w/-original-imagngzufdhyzdrn.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.5,
       "reviews": 1834,
       "stock": true
@@ -75,7 +75,7 @@
       "description": "Intel Core i3-10100 3.6 GHz Upto 4.3 GHz LGA 1200 Socket 4 Cores 8 Threads 6 MB Smart Cache Desktop Processor  (Silver)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kbmjssw0/processor/5/3/k/intel-i310100-original-imafswvd9f55c8rh.jpeg?q=70",
       "featured": true,
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.4,
       "reviews": 1004,
       "stock": false
@@ -88,7 +88,7 @@
       "price": 13490,
       "description": "Intel i5-11400 4.4 GHz Upto 4.4 GHz LGA 1200 Socket 6 Cores 12 Threads Desktop Processor  (Blue)",
       "image": "https://rukminim2.flixcart.com/image/416/416/ky0g58w0/processor/e/a/z/i5-11400-intel-original-imagacavynaghzn6.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.7,
       "reviews": 1034,
       "stock": true
@@ -101,7 +101,7 @@
       "price": 44539,
       "description": "Intel I9-12900KF 5.2 GHz Upto 5.2 GHz LGA1700 Socket 16 Cores 24 Threads Desktop Processor  (Blue)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/processor/c/j/n/-original-imagngzvngmavgbn.jpeg?q=70",
-      "colors": "#C0C0C0",
+      "colors": ["#C0C0C0"],
       "ratings": 4.5,
       "reviews": 934,
       "stock": true
@@ -114,7 +114,7 @@
       "price": 915,
       "description": "ASRock H610M-HDV/M.2 Motherboard",
       "image": "https://rukminim2.flixcart.com/image/416/416/l4ln8nk0/motherboard/4/n/j/h610m-hdv-m-2-asrock-original-imagfgt2dghsnbzs.jpeg?q=70",
-      "colors": "#000000",
+      "colors": ["#000000"],
       "ratings": 4.1,
       "reviews": 957,
       "stock": true
@@ -164,7 +164,7 @@
       "price": 12998,
       "description": "ZEBRONICS 32 inch Curved Full HD VA Panel Wall Mountable Monitor (ZEB -AC32FHD LED)  (Response Time: 8 ms, 75 Hz Refresh Rate)",
       "image": "https://rukminim2.flixcart.com/image/416/416/l3ahpjk0/monitor/a/v/q/-original-imagefsf8hkyuhdj.jpeg?q=70",
-      "colors": "#000000",
+      "colors": ["#000000"],
       "ratings": 3.8,
       "reviews": 275,
       "stock": true
@@ -177,7 +177,7 @@
       "price": 6000,
       "description": "Acer 21.5 inch Full HD VA Panel with VGA, HDMI, Ergonomic Stand, 2X2W Inbuilt Speakers, ZeroFrame Design Monitor (KA222Q)  (AMD Free Sync, Response Time: 1 ms, 100 Hz Refresh Rate)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/monitor/k/z/g/-original-imagqr4pa7nnbets.jpeg?q=70",
-      "colors": "#000000",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 764,
       "stock": true
