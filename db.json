@@ -127,6 +127,7 @@
       "price": 7551,
       "description": "ASUS Prime-B450M-A-II Motherboard  (Black, Grey)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kuczmvk0/motherboard/o/p/4/prime-b450m-a-ii-asus-original-imag7g7tz7rfhamp.jpeg?q=70",
+      "colors": ["#000000"],
       "featured": true,
       "ratings": 4.3,
       "reviews": 1033,
@@ -138,8 +139,9 @@
       "category": "motherboard",
       "brand": "MSI",
       "price": 10795,
-      "description": "MSI b450 gaming plus Max Motherboard",
+      "description": "MSI b450 gaming plus Max Motherboard (Red, Black",
       "image": "https://rukminim2.flixcart.com/image/416/416/k3j1z0w0/motherboard/d/t/k/msi-b450-gaming-plus-max-b450-gaming-plus-max-atx-gaming-original-imafmn5ffyjmczh7.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.6,
       "reviews": 1634,
       "stock": true
@@ -152,6 +154,7 @@
       "price": 12299,
       "description": "MSI B550M PRO-VDH WIFI Motherboard  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kfvfwy80/motherboard/k/x/g/msi-b550m-pro-vdh-wifi-b550m-pro-vdh-wifi-original-imafw8qxkpj6hfyd.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4,
       "reviews": 1345,
       "stock": false
@@ -190,6 +193,7 @@
       "price": 6499,
       "description": "SAMSUNG 22 inch Full HD LED Backlit VA Panel (54.48 cm) Monitor (LS22A33ANHWXXL)  (Response Time: 5 ms, 60 Hz Refresh Rate)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/monitor/v/i/j/-original-imagn6h2gfmkm774.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.1,
       "reviews": 864,
       "stock": false
@@ -202,6 +206,7 @@
       "price": 299,
       "description": "ZEBRONICS Zeb-K20 Wired USB Desktop Keyboard  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/ksxjs7k0/keyboard/desktop-keyboard/b/q/a/zeb-k20-zebronics-original-imag6dugjj5gzr3y.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.1,
       "reviews": 1053,
       "stock": true
@@ -214,6 +219,7 @@
       "price": 569,
       "description": "DELL KB 216 Wired USB Desktop Keyboard  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/k3g73bk0/keyboard/desktop-keyboard/e/y/q/dell-kb-216-original-imaf8qpmu8zmqm9f.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 859,
       "stock": false
@@ -226,6 +232,7 @@
       "price": 348,
       "description": "ZEBRONICS ZEB-K24 slim design, retractable stand, 1.5 meter textured cable, Chiclet keys Wired USB Desktop Keyboard  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/o/b/7/-original-imaggd53anpanb6g.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 764,
       "stock": true
@@ -238,6 +245,7 @@
       "price": 449,
       "description": "Intex IT-KB331 / Full-Size, RGB Lighting, Membrane Wired USB Gaming Keyboard  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/gaming-keyboard/m/5/m/it-kb331-intex-original-imagmgwzqaygcdud.jpeg?q=70",
+      "colors": ["#000000"],
       "featured": true,
       "ratings": 3.7,
       "reviews": 1094,
@@ -265,6 +273,7 @@
       "price": 309,
       "description": "DELL MS 116-BK Wired Optical Mouse  (USB, Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/k4a7c7k0/mouse/m/h/t/dell-ms116-wired-optical-mouse-3yrs-warranty-original-imafmktgxyt5ge9k.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 1845,
       "stock": false
@@ -277,18 +286,20 @@
       "price": 329,
       "description": "HP 1000 Wired Optical Mouse  (USB 3.0, USB 2.0, Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/jrkyfm80/mouse/h/u/f/hp-1000-original-imafd3jqy5sygn2s.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 964,
       "stock": true
     },
     {
       "id": "psno23",
-      "name": "ZEBRONICS ZEB-POP",
+      "name": "ZEBRONICS ZEB-POP Mouse",
       "category": "mouse",
       "brand": "ZEBRONICS",
       "price": 349,
       "description": "ZEBRONICS ZEB-POP 2.4GHz Wireless Mouse max1600 DPI, USB Nano Receiver, 4 Buttons(BLACK) Wireless Optical Mouse  (2.4GHz Wireless, Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mouse/8/2/d/zeb-pop-2-4ghz-wireless-mouse-max1600-dpi-usb-nano-receiver-4-original-imagpgpqfh82cpqb.jpeg?q=70",
+      "colors": ["#000000", "#608BF8", "#F1EA54"],
       "ratings": 4.2,
       "reviews": 664,
       "stock": false
@@ -299,8 +310,9 @@
       "category": "combo",
       "brand": "ZEBRONICS",
       "price": 1999,
-      "description": "ZEBRONICS Zeb-Transformer Premium Gaming Keyboard and Mouse Combo Set",
+      "description": "ZEBRONICS Zeb-Transformer Premium Gaming Keyboard and Mouse Combo Set (RGB)",
       "image": "https://rukminim2.flixcart.com/image/416/416/khuvxjk0/computer-acc-combo/b/h/x/premium-gaming-transformer-keyboard-mouse-2-zebronics-original-imafxs3cst38zkvk.jpeg?q=70",
+      "colors": ["#000000"],
       "featured": true,
       "ratings": 4.1,
       "reviews": 949,
@@ -314,6 +326,7 @@
       "price": 568,
       "description": "ZEBRONICS Zeb-K35 Keyboard and ZEB-WING Wired Optical Mouse Combo Set",
       "image": "https://rukminim2.flixcart.com/image/416/416/ku2zjww0/computer-acc-combo/f/t/y/zeb-k35-keyboard-and-zeb-wing-wired-optical-mouse-2-zebronics-original-imag79p8k43hy3ph.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4,
       "reviews": 464,
       "stock": true
@@ -326,6 +339,7 @@
       "price": 775,
       "description": "QUANTUM QHM 7406 WIRED KEYBOARD WITH QHM 222 WIRED MOUSE AND QHM 6633 WHITE 4 PORT USB HUB Combo Set",
       "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/computer-acc-combo/p/z/t/qhm-7406-wired-keyboard-with-qhm-222-wired-mouse-and-qhm-6633-original-imafuxyvbgb3w9z5.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 3.9,
       "reviews": 1047,
       "stock": false
@@ -338,6 +352,7 @@
       "price": 2849,
       "description": "WD WD BLUE 1 TB Desktop, Servers, All in One PC's, Network Attached Storage Internal Hard Disk Drive (HDD) (1 TB DESKTOP BLUE HARD DISK)  (Interface: SATA, Form Factor: 3.5 inch)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/q/s/o/wd-1-tb-1-tb-desktop-blue-hard-disk-wd-original-imagkgzthydh2wg3.jpeg?q=70",
+      "colors": ["#C0C0C0"],
       "featured": true,
       "ratings": 4.5,
       "reviews": 1200,
@@ -351,6 +366,7 @@
       "price": 1075,
       "description": "WD Blue hdp 500 GB Desktop Internal Hard Disk Drive (HDD) (Wd500azlp)  (Interface: SATA, Form Factor: 3.5 inch)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/internal-hard-drive/v/p/s/wd500azlp-wd-original-imagpaueqaxxaqyf.jpeg?q=70",
+      "colors": ["#C0C0C0"],
       "ratings": 4.2,
       "reviews": 800,
       "stock": true
@@ -363,6 +379,7 @@
       "price": 3730,
       "description": "Seagate ZN1BG90N 1 TB Desktop Internal Hard Disk Drive (HDD) (BARRACUDA)  (Interface: SATA, Form Factor: 3.5 inch)",
       "image": "https://rukminim2.flixcart.com/image/416/416/k59xci80/internal-hard-drive/9/h/h/seagate-barracuda-original-imafnz8hrvct3vdx.jpeg?q=70",
+      "colors": ["#C0C0C0"],
       "ratings": 4.7,
       "reviews": 1500,
       "stock": false
@@ -375,6 +392,7 @@
       "price": 4163,
       "description": "Crucial BX500 1 TB Desktop, Laptop Internal Solid State Drive (SSD) (CT1000BX500SSD1)  (Interface: SATA, Form Factor: 2.5 Inch)",
       "image": "https://rukminim2.flixcart.com/image/416/416/ke5zzbk0/internal-hard-drive/g/z/9/crucial-ct1000bx500ssd1-01-original-imafuw9zczznyenu.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.4,
       "reviews": 1000,
       "stock": true
@@ -387,6 +405,7 @@
       "price": 4299,
       "description": "WESTERN DIGITAL WD Blue NVMe SN570 1 TB Laptop, Desktop Internal Solid State Drive (SSD) (WDS100T3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
       "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/s/w/u/wd-sn570-wds100t3b0c-western-digital-original-imageanabmz67bh5.jpeg?q=70",
+      "colors": ["#06559F"],
       "ratings": 4.6,
       "reviews": 1300,
       "stock": true
@@ -399,6 +418,7 @@
       "price": 2579,
       "description": "WESTERN DIGITAL WD Blue NVMe SN570 500 GB Laptop, Desktop Internal Solid State Drive (SSD) (WDS500G3B0C)  (Interface: PCIe NVMe, Form Factor: M.2)",
       "image": "https://rukminim2.flixcart.com/image/416/416/l33cia80/internal-hard-drive/y/d/t/wd-sn570-wds500g3b0c-western-digital-original-imagean9xjfdrgqf.jpeg?q=70",
+      "colors": ["#06559F"],
       "featured": true,
       "ratings": 4.3,
       "reviews": 700,
@@ -406,12 +426,13 @@
     },
     {
       "id": "psno33",
-      "name": "WESTERN DIGITAL WD Green",
+      "name": "WD Green SATA 240 GB ",
       "category": "ssd",
       "brand": "WD",
       "price": 1279,
       "description": "WESTERN DIGITAL WD Green SATA 240 GB Desktop, Laptop Internal Solid State Drive (SSD) (WDS240G3G0A)  (Interface: SATA, Form Factor: 2.5 Inch)",
       "image": "https://rukminim2.flixcart.com/image/416/416/l3khsi80/internal-hard-drive/l/z/0/wds240g3g0a-western-digital-original-imagenr6wxvdnqq8.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 3.9,
       "reviews": 1600,
       "stock": true
@@ -424,6 +445,7 @@
       "price": 1490,
       "description": "Crucial CT DDR4 8 GB (Single Channel) PC DRAM (CT8G4DFRA266)  (Multicolor)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kltryq80/ram/i/w/0/ct8g4dfra266-crucial-original-imagyv4xcgsmakaf.jpeg?q=70",
+      "colors": ["#296F49"],
       "ratings": 4.3,
       "reviews": 700,
       "stock": true
@@ -436,6 +458,7 @@
       "price": 1450,
       "description": "Crucial Basic DDR4 8 GB (Single Channel) Laptop DDR4 (8GB DDR4-2666 SODIMM 1.2V CL19)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kbb49zk0/ram/2/k/a/crucial-2666mhz-ddr4-sodimm-204-pin-memory-original-imafszwn2drzscmy.jpeg?q=70",
+      "colors": ["#296F49"],
       "ratings": 4.6,
       "reviews": 950,
       "stock": true
@@ -448,6 +471,7 @@
       "price": 4599,
       "description": "Crucial Ballistix 3200 MHz DDR4 16 GB (Single Channel) PC, Server UDIMM (CL16 Desktop Gaming RAM RGB - Red)  (Red)",
       "image": "https://rukminim2.flixcart.com/image/416/416/ku1k4280/ram/n/q/g/cl16-desktop-gaming-ram-rgb-red-crucial-original-imag7973z4622fyh.jpeg?q=70",
+      "colors": ["#FF0000"],
       "featured": true,
       "ratings": 4.8,
       "reviews": 1300,
@@ -461,6 +485,7 @@
       "price": 5999,
       "description": "Crucial 4800MHz CL40 CT16G48C40S5 DDR5 16 GB (Single Channel) Laptop DRAM (CT16G48C40S5)",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ram/8/n/g/ct16g48c40s5-crucial-original-imaggdskfhps8fep.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.4,
       "reviews": 1100,
       "stock": true
@@ -473,6 +498,7 @@
       "price": 2199,
       "description": "ZEBRONICS ZEB-ZIUM Mid tower Cabinet  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cabinet/9/x/z/zeb-zium-zebronics-original-imagrnddstfjuhtu.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 3.9,
       "reviews": 600,
       "stock": false
@@ -485,6 +511,7 @@
       "price": 3999,
       "description": "Ant ESPORT25 Cabinet Cabinet  (White)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cabinet/u/e/f/esport25-ant-original-imagr7wyjefece6a.jpeg?q=70",
+      "colors": ["#FFFFFF"],
       "featured": true,
       "ratings": 4.7,
       "reviews": 1600,
@@ -498,6 +525,7 @@
       "price": 2655,
       "description": "Ant Esports ICE-120AG Mid Tower Computer Case I Gaming Cabinet Supports ATX, Micro-ATX, Mini-ITX Motherboard with 1 x 120 mm Rear Fan Preinstalled - Black Mid Tower Cabinet  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kwxv98w0/cabinet/5/h/t/ice-120ag-mid-tower-computer-case-i-gaming-cabinet-supports-atx-original-imag9gbsq6gayzxg.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 800,
       "stock": true
@@ -510,6 +538,7 @@
       "price": 999,
       "description": "ZEBRONICS Cabinet PSU 400W Combo (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cabinet/q/d/o/zebronics-ant-sport-original-imagjpfgag2bpntc.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.5,
       "reviews": 1673,
       "stock": true
@@ -522,6 +551,7 @@
       "price": 266,
       "description": "LXRIOUS 1155 Cooler  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/knm2s280/cooler/k/p/h/intel-cpu-cooler-for-corei3-15-17-cpus-cnd-original-imag28u2cqze8u9e.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 3.9,
       "reviews": 1473,
       "stock": false
@@ -534,6 +564,7 @@
       "price": 6999,
       "description": "COOLER MASTER ML240L Core ARGB CPU Liquid Cooler Cooler  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cooler/p/j/e/ml240l-core-argb-cpu-liquid-cooler-cooler-master-original-imagqbzaqzgcxvdc.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.7,
       "reviews": 1283,
       "stock": true
@@ -546,6 +577,7 @@
       "price": 30979,
       "description": "ZOTAC NVIDIA RTX 3060 Twin Edge OC 12 GB GDDR6 Graphics Card",
       "image": "https://rukminim2.flixcart.com/image/416/416/kwtkxow0/graphics-card/p/m/o/rtx-3060-twin-edge-oc-zotac-original-imag9ez5rgmc89rp.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.4,
       "reviews": 763,
       "stock": true
@@ -558,6 +590,7 @@
       "price": 4499,
       "description": "ASUS NVIDIA GeForce GT 730 2 GB GDDR5 Graphics Card",
       "image": "https://rukminim2.flixcart.com/image/416/416/ks99aq80/graphics-card/u/a/8/geforce-gt-730-asus-original-imag5v72aacfkage.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 3.9,
       "reviews": 1849,
       "stock": true
@@ -570,6 +603,7 @@
       "price": 11694,
       "description": "Acer Intel ARC A380 6 GB GDDR6 Graphics Card  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/graphics-card/e/i/3/arc-a380-acer-predator-original-imagqdxeckgzmmjd.jpeg?q=70",
+      "colors": ["#000000"],
       "featured": true,
       "ratings": 4.6,
       "reviews": 1762,
@@ -583,6 +617,7 @@
       "price": 14999,
       "description": "GIGABYTE NVIDIA GV-N1656WF2OC-4GD 4 GB GDDR6 Graphics Card  (Black)",
       "image": "https://rukminim2.flixcart.com/image/416/416/kfvfwy80/graphics-card/m/s/s/gigabyte-gv-n1656wf2oc-4gd-original-imafw8m2mmcgtzre.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 1427,
       "stock": true
@@ -595,6 +630,7 @@
       "price": 34900,
       "description": "Lenovo V15 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) V15 G2 ALC Thin and Light Laptop  (15.6 Inch, Black, 1.7 Kg)",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/b/d/i/-original-imagzhefhc84rmbf.jpeg?q=70",
+      "colors": ["#000000"],
       "featured": true,
       "ratings": 4.8,
       "reviews": 1167,
@@ -608,6 +644,7 @@
       "price": 31990,
       "description": "HP 15s (2023) Athlon Dual Core 3050U - (8 GB/512 GB SSD/Windows 11 Home) 15s-ey1509AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.5,
       "reviews": 1385,
       "stock": true
@@ -620,6 +657,7 @@
       "price": 61990,
       "description": "ASUS Vivobook 15 Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home) M1502QA-EJ741WS Thin and Light Laptop  (15.6 Inch, Quiet Blue, 1.70 kg, With MS Office)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/x/7/z/-original-imagqdrxv3jphydc.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.6,
       "reviews": 1293,
       "stock": true
@@ -631,7 +669,11 @@
       "brand": "ASUS",
       "price": 37990,
       "description": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS | X515EA-EJ328WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 kg, With MS Office)",
-      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/e/z/-original-imagpxgqesgrthks.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/e/z/-original-imagpxgqesgrthks.jpeg?q=70",
+      "colors": ["#000000"],
+       "ratings": 4.2,
+      "reviews": 890,
+      "stock": true
     },
     {
       "id": "psno52",
@@ -640,7 +682,11 @@
       "brand": "HP",
       "price": 34990,
       "description": "HP 15s (2023) Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)",
-      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70"
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
+      "colors": ["#000000"],
+       "ratings": 4,
+      "reviews": 1100,
+      "stock": false
     },
     {
       "id": "psno51",
@@ -650,6 +696,7 @@
       "price": 37990,
       "description": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS | X515EA-EJ328WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 kg, With MS Office)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/e/z/-original-imagpxgqesgrthks.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.5,
       "reviews": 1100,
       "stock": true
@@ -662,6 +709,7 @@
       "price": 34990,
       "description": "HP 15s (2023) Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)",
       "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
+      "colors": ["#000000"],
       "ratings": 4.2,
       "reviews": 950,
       "stock": true
