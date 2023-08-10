@@ -687,32 +687,6 @@
        "ratings": 4,
       "reviews": 1100,
       "stock": false
-    },
-    {
-      "id": "psno51",
-      "name": "ASUS Vivobook 15 Core i3 11th Gen",
-      "category": "laptop",
-      "brand": "ASUS",
-      "price": 37990,
-      "description": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS | X515EA-EJ328WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 kg, With MS Office)",
-      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/e/z/-original-imagpxgqesgrthks.jpeg?q=70",
-      "colors": ["#000000"],
-      "ratings": 4.5,
-      "reviews": 1100,
-      "stock": true
-    },
-    {
-      "id": "psno52",
-      "name": "HP 15s (2023) Ryzen 3 Dual Core 3250U",
-      "category": "laptop",
-      "brand": "HP",
-      "price": 34990,
-      "description": "HP 15s (2023) Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)",
-      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
-      "colors": ["#000000"],
-      "ratings": 4.2,
-      "reviews": 950,
-      "stock": true
     }
   ]
 }
